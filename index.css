@@ -1,0 +1,55 @@
+.container {
+    max-width: auto;
+    margin: auto;
+}
+
+body {
+    background-image: url("https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/08/terraria-party-girl-hosting-a-party-for-everyone.jpg");
+    background-size: auto;
+    font-family: Oxygen;
+    font-weight: bold;
+    text-align: center;
+    color: lightcyan;
+    height: 100vh;
+    
+}
+
+p {
+    color: lightcyan;
+    font-size: 25px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 3px solid lightcyan;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: lightcyan;
+    font-weight: normal;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkorange;
+}
+
+#save-btn {
+    background: lightpink;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
